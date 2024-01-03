@@ -4,7 +4,6 @@ As a passionate senior full stack developer, I thrive on transforming visionary 
 
 ## 🚀 What I Do
 
-- 🔧 Crafting code with a blend of creativity and precision.
 - 🌐 Building seamless full stack applications that elevate user experiences.
 - 🎨 Designing intuitive and visually appealing user interfaces.
 - 🚧 Solving complex problems with elegant and scalable solutions.
