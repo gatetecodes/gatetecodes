@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Marcel Gatete
 
-As a passionate senior full stack developer, I thrive on transforming visionary concepts into cutting-edge digital solutions through the power of code. My mission is to bridge the gap between imagination and innovation, crafting robust applications that not only meet but exceed expectations.
+As a passionate senior full stack developer, I thrive on transforming visionary concepts into cutting-edge digital solutions through the power of code. My mission is to bridge the gap between imagination and innovation.
 
 ## 🚀 What I Do
 
@@ -9,16 +9,9 @@ As a passionate senior full stack developer, I thrive on transforming visionary 
 - 🎨 Designing intuitive and visually appealing user interfaces.
 - 🚧 Solving complex problems with elegant and scalable solutions.
 
-## 💼 Professional Journey
+## 👨🏽‍💻 Tech Stack
 
-I bring 10 years of experience in the world of software development, with expertise in:
-
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **ORM**: Prisma, Sequelize, Drizzle
-- **DevOps:** Docker, Kubernetes, CI/CD pipelines
-- **Version Control:** Git, GitHub Actions
+Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Sequelize, React.js, Next.js, TailwindCSS, Framer Motion
 
 ## 🔭 Current Focus
 
@@ -28,7 +21,7 @@ Currently, I'm diving deep into Python, exploring its nuances and pushing the bo
 
 - 📧 Email: gatetecodes@gmail.com
 - 🐦 Twitter: https://twitter.com/marcelgatete
-- 💼 LinkedIn: https://www.linkedin.com/in/marcelgatete/
+- 💼 LinkedIn: https://www.linkedin.com/in/marcelgatete
 - 🌐 Portfolio: https://gatete.link
 
 Let's code the future together! 🚀
