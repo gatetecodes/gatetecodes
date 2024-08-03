@@ -20,7 +20,7 @@ Currently, I'm diving deep into Python, exploring its nuances and pushing the bo
 
 - 📧 Email: gatetecodes@gmail.com
 - 🐦 Twitter: https://twitter.com/marcelgatete
-- 💼 LinkedIn: https://www.linkedin.com/in/marcelgatete
+- 💼 LinkedIn: https://www.linkedin.com/in/marcel-gatete
 - 🌐 Portfolio: https://gatete.link
 
 Let's code the future together! 🚀
