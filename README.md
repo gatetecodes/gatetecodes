@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Marcel Gatete
 
-As a passionate senior full stack developer, I thrive on transforming visionary concepts into cutting-edge digital solutions through the power of code. My mission is to bridge the gap between imagination and innovation.
+As a passionate senior Software Engineer, I thrive on transforming visionary concepts into cutting-edge digital solutions through the power of code. My mission is to bridge the gap between imagination and innovation.
 
 ## 🚀 What I Do
 
