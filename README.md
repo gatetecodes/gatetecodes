@@ -10,7 +10,7 @@ As a passionate senior Software Engineer, I thrive on transforming visionary con
 
 ## 👨🏽‍💻 Tech Stack
 
-Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Sequelize, React.js, Next.js, TailwindCSS, Framer Motion
+Node.js, Express.js, Bun, Hono.js, MongoDB, PostgreSQL, Prisma, Sequelize, React.js, Next.js, TailwindCSS, Framer Motion
 
 ## 🔭 Current Focus
 
