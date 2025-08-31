@@ -10,11 +10,11 @@ As a passionate senior Software Engineer, I thrive on transforming visionary con
 
 ## 👨🏽‍💻 Tech Stack
 
-Node.js, Express.js, Bun, Hono.js, MongoDB, PostgreSQL, Prisma, Sequelize, React.js, Next.js, TailwindCSS, Framer Motion
+TypeScript, Node.js, Express.js, Bun.js, Hono.js, PHP, Laravel, MongoDB, PostgreSQL, Prisma, Sequelize, React.js, Next.js, TailwindCSS, Framer Motion
 
 ## 🔭 Current Focus
 
-Currently, I'm diving deep into Python, exploring its nuances and pushing the boundaries of what can be achieved in the realms of data science, AI and machine learning. Always on the lookout for exciting opportunities to collaborate on projects that inspire innovation.
+Currently, I'm diving deep into PyTorch, exploring its nuances and pushing the boundaries of what can be achieved in the realms of data science, AI and machine learning. Always on the lookout for exciting opportunities to collaborate on projects that inspire innovation.
 
 ## 🌟 Let's Connect
 
