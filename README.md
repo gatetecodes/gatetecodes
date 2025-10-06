@@ -7,10 +7,11 @@ As a passionate senior Software Engineer, I thrive on transforming visionary con
 - 🌐 Building seamless full stack applications that elevate user experiences.
 - 🎨 Designing intuitive and visually appealing user interfaces.
 - 🚧 Solving complex problems with elegant and scalable solutions.
+- Weaving AI into real workflows
 
 ## 👨🏽‍💻 Tech Stack
 
-TypeScript, Node.js, Express.js, Bun.js, Hono.js, PHP, Laravel, MongoDB, PostgreSQL, Prisma, Sequelize, React.js, Next.js, TailwindCSS, Framer Motion
+TypeScript, Node.js, Express.js, Bun.js, Hono.js, PHP, Laravel, PyTorch, OpenAI, Groq, MongoDB, PostgreSQL, Prisma, Sequelize, React.js, Next.js, TailwindCSS, Framer Motion
 
 ## 🔭 Current Focus
 
