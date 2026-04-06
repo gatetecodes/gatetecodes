@@ -7,7 +7,7 @@ As a passionate senior Software Engineer, I thrive on transforming visionary con
 - 🌐 Building seamless full stack applications that elevate user experiences.
 - 🎨 Designing intuitive and visually appealing user interfaces.
 - 🚧 Solving complex problems with elegant and scalable solutions.
-- Weaving AI into real workflows
+- 🧠 Weaving AI into real workflows
 
 ## 👨🏽‍💻 Tech Stack
 - **Languages**: TypeScript, Java, PHP, Python
