@@ -13,7 +13,7 @@ As a passionate senior Software Engineer, I thrive on transforming visionary con
 - **Languages**: TypeScript, Java, PHP, Python
 - **Frontend**: Next.js, React, TailwindCSS, Framer Motion,
 - **Mobile**: React Native
-- **Backend/Runtimes**: Node.js, Bun, Hono.js, Express, Spring Boot, Laravel
+- **Backend/Runtimes**: Node.js, Bun, Hono.js, Express, Spring Boot, Laravel, Fastify
 - **AI/ML**: PyTorch, OpenAI, Groq
 
 ## 🔭 Current Focus
