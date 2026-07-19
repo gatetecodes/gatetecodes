@@ -35,12 +35,11 @@ I move comfortably from interface to infrastructure: shaping the product, design
 Most of my best work lives in private repos, but the pattern is pretty clear:
 
 - **Kazispace**: digitizing informal workforce discovery, hiring, and coordination in Rwanda.
-- **CareLogic / eClinic**: EMR, clinic management, quotations, and healthcare operations tooling.
-- **FormAI**: AI-assisted form, document, and workflow infrastructure.
+- **CareLogic**: EMR, clinic management, inventory, and healthcare operations tooling.
+- **Posy**: AI-assisted form, document, and workflow infrastructure.
 - **Licensing and compliance systems**: application intake, document review, internal approvals, audit trails, and decision workflows.
-- **Certify**: certificate generation, verification, templates, tenant management, and PDF workflows.
 - **Optic**: optical shop SaaS foundations, including inventory, prescriptions, lab work, tenancy, sales, and reporting.
-- **PocketStock**: mobile-first product thinking around inventory and stock workflows.
+- **Dukani**: mobile-first product thinking around inventory and stock workflows.
 
 That mix is my lane: software for serious workflows, built with enough taste that people do not feel punished for using it.
 
@@ -59,7 +58,7 @@ I like systems that feel simple because the hard parts were handled with care.
 ```ts
 const toolbox = {
   languages: ["TypeScript", "Java", "PHP", "Python"],
-  frontend: ["Next.js", "React", "Angular", "Tailwind CSS", "Framer Motion", "Ant Design"],
+  frontend: ["Next.js", "React", "Angular", "Tailwind CSS", "Framer Motion", "Ant Design", "Tanstack Start"],
   mobile: ["React Native"],
   backend: ["Node.js", "Bun", "Hono", "Express", "Fastify", "Spring Boot", "Laravel"],
   data: ["PostgreSQL", "Prisma", "Sequelize", "Redis"],
